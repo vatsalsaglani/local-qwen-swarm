@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "local-qwen-swarm"
+version = "0.1.0"
+description = ""
+authors = ["vatsalsaglani <saglanivatsal@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+httpx = "^0.27.2"
+openai = "^1.54.4"
+transformers = "^4.46.2"
+fastapi = "^0.115.5"
+uvicorn = {extras = ["standard"], version = "^0.32.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
