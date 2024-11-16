@@ -106,6 +106,10 @@ print(
                               llm_args={})))
 ```
 
+> To test the swarm, you can use the following command:
+> ```bash
+> poetry run python -m tests.test_localswarm
+> ```
 
 ## Configuration
 
