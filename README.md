@@ -129,4 +129,4 @@ The system is designed to work with [Qwen2.5-Coder-3B-Instruct](https://huggingf
 
 Below is a demo of the agent swarm in action:
 
-[![asciicast](https://asciinema.org/a/ktIe66fGibblFZmJtULF3xQ7F.svg)](https://asciinema.org/a/ktIe66fGibblFZmJtULF3xQ7F)
+![Demo](./demo.gif)
