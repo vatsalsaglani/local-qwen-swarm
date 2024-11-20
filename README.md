@@ -2,6 +2,10 @@
 
 A Python implementation of an agent swarm system that works with local LLM servers. The system allows you to create multiple agents that can work together to solve complex tasks using the Qwen 2.5 Coder model.
 
+> **Note:** This implementation is a work in progress and is not production ready.
+
+_**Read the full blog post [here](https://pub.towardsai.net/i-built-an-openai-style-swarm-that-runs-entirely-on-my-laptop-heres-how-ac606ba739f3).**_
+
 
 ## Prerequisites
 
